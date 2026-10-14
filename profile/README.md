@@ -17,4 +17,4 @@ in the house.
 Native apps for Apple devices, Android and Windows are in development, and a
 hosted service is coming at [own.audio](https://www.own.audio).
 
-Contact: contact@own.audio
+Contact: contact@own.audio · [Buy me a coffee](https://buymeacoffee.com/kornelko)
